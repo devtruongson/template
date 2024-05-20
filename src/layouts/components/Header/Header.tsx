@@ -889,7 +889,7 @@ export default function Header() {
                                                                 </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#">
+                                                                <a href="/checkout">
                                                                     Thanh toán
                                                                 </a>
                                                             </li>
