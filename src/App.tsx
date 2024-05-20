@@ -6,12 +6,8 @@ import RouterCom from "./routers/route";
 function App() {
     return (
         <>
-            <div className="">
-                <Header />
-            </div>
-            <div className="">
-                <RouterCom />
-            </div>
+            <Header />
+            <RouterCom />
             <Footer />
         </>
     );

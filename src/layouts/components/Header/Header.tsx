@@ -65,7 +65,7 @@ export default function Header() {
                         <div className="row">
                             <div className="col-xl-3 col-lg-2">
                                 <div className="header-logo">
-                                    <a href="#">
+                                    <a href="/index">
                                         <img
                                             src="assets/images/menu/logo/1.png"
                                             alt="Umino's Header Logo"
@@ -137,7 +137,7 @@ export default function Header() {
                                                             ></span>
                                                         </div>
                                                         <div className="minicart-img">
-                                                            <a href="#">
+                                                            <a href="">
                                                                 <img
                                                                     src="assets/images/product/small-size/6.jpg"
                                                                     alt="Umino's Product Image"
@@ -988,7 +988,7 @@ export default function Header() {
                         <div className="row">
                             <div className="col-lg-2 col-md-6 col-sm-7">
                                 <div className="header-logo">
-                                    <a href="#">
+                                    <a href="/index">
                                         <img
                                             src="assets/images/menu/logo/1.png"
                                             alt="Umino's Header Logo"
