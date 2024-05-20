@@ -1,6 +1,11 @@
-import React from "react";
+import { useNavigate } from "react-router-dom";
 
 export default function Checkout() {
+    const navigate = useNavigate();
+
+    const handleToLogin = () => {
+        navigate("/login");
+    };
     return (
         <>
             {/* <!-- Begin Umino's Breadcrumb Area --> */}
@@ -25,7 +30,10 @@ export default function Checkout() {
                             <div className="coupon-accordion">
                                 <h3>
                                     Returning customer?{" "}
-                                    <span id="showlogin">
+                                    <span
+                                        id="showlogin"
+                                        onClick={() => handleToLogin()}
+                                    >
                                         Click here to login
                                     </span>
                                 </h3>
