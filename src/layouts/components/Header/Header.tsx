@@ -380,7 +380,12 @@ export default function Header() {
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li className="right-menu">
+                                            <li
+                                                className="right-menu"
+                                                onClick={() =>
+                                                    handleToShopLeftSibar()
+                                                }
+                                            >
                                                 <a href="#">Nhẫn</a>
                                                 <ul className="cat-mega-menu">
                                                     <li className="right-menu cat-mega-title">
@@ -485,7 +490,12 @@ export default function Header() {
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li className="right-menu">
+                                            <li
+                                                className="right-menu"
+                                                onClick={() =>
+                                                    handleToShopLeftSibar()
+                                                }
+                                            >
                                                 <a href="#">Bông tai</a>
                                                 <ul className="cat-mega-menu">
                                                     <li className="right-menu cat-mega-title">
@@ -584,7 +594,12 @@ export default function Header() {
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li className="right-menu">
+                                            <li
+                                                className="right-menu"
+                                                onClick={() =>
+                                                    handleToShopLeftSibar()
+                                                }
+                                            >
                                                 <a href="#">Vòng tay</a>
                                                 <ul className="cat-mega-menu">
                                                     <li className="right-menu cat-mega-title">
@@ -689,7 +704,12 @@ export default function Header() {
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li className="right-menu">
+                                            <li
+                                                className="right-menu"
+                                                onClick={() =>
+                                                    handleToShopLeftSibar()
+                                                }
+                                            >
                                                 <a href="#">Lắc</a>
                                                 <ul className="cat-mega-menu">
                                                     <li className="right-menu cat-mega-title">
