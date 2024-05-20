@@ -641,7 +641,7 @@ export default function SingleProduct() {
                                                 <div className="slide-item">
                                                     <div className="single-product">
                                                         <div className="product-img">
-                                                            <a href="single-product.html">
+                                                            <a href="/single-product-sale">
                                                                 <img
                                                                     className="primary-img"
                                                                     src="assets/images/product/medium-size/1-2.jpg"
@@ -708,7 +708,7 @@ export default function SingleProduct() {
                                                                     </span>
                                                                 </div>
                                                                 <h6 className="product-name">
-                                                                    <a href="single-product.html">
+                                                                    <a href="/single-product-sale">
                                                                         Aliquet
                                                                         auctor
                                                                         semali
@@ -742,7 +742,7 @@ export default function SingleProduct() {
                                                 <div className="slide-item">
                                                     <div className="single-product">
                                                         <div className="product-img">
-                                                            <a href="single-product.html">
+                                                            <a href="/single-product-sale">
                                                                 <img
                                                                     className="primary-img"
                                                                     src="assets/images/product/medium-size/2-2.jpg"
@@ -809,7 +809,7 @@ export default function SingleProduct() {
                                                                     </span>
                                                                 </div>
                                                                 <h6 className="product-name">
-                                                                    <a href="single-product.html">
+                                                                    <a href="/single-product-sale">
                                                                         Auctor
                                                                         gravida
                                                                         enimuctor
@@ -843,7 +843,7 @@ export default function SingleProduct() {
                                                 <div className="slide-item">
                                                     <div className="single-product">
                                                         <div className="product-img">
-                                                            <a href="single-product.html">
+                                                            <a href="/single-product-sale">
                                                                 <img
                                                                     className="primary-img"
                                                                     src="assets/images/product/medium-size/3-2.jpg"
@@ -910,7 +910,7 @@ export default function SingleProduct() {
                                                                     </span>
                                                                 </div>
                                                                 <h6 className="product-name">
-                                                                    <a href="single-product.html">
+                                                                    <a href="/single-product-sale">
                                                                         Bibenm
                                                                         lorem
                                                                         coectetur
@@ -944,7 +944,7 @@ export default function SingleProduct() {
                                                 <div className="slide-item">
                                                     <div className="single-product">
                                                         <div className="product-img">
-                                                            <a href="single-product.html">
+                                                            <a href="/single-product-sale">
                                                                 <img
                                                                     className="primary-img"
                                                                     src="assets/images/product/medium-size/4-2.jpg"
@@ -1011,7 +1011,7 @@ export default function SingleProduct() {
                                                                     </span>
                                                                 </div>
                                                                 <h6 className="product-name">
-                                                                    <a href="single-product.html">
+                                                                    <a href="/single-product-sale">
                                                                         Curabitur
                                                                         tristique
                                                                         neque
@@ -1066,7 +1066,7 @@ export default function SingleProduct() {
                                                 <div className="slide-item">
                                                     <div className="single-product">
                                                         <div className="product-img">
-                                                            <a href="single-product.html">
+                                                            <a href="/single-product-sale">
                                                                 <img
                                                                     className="primary-img"
                                                                     src="assets/images/product/medium-size/1-3.jpg"
@@ -1133,7 +1133,7 @@ export default function SingleProduct() {
                                                                     </span>
                                                                 </div>
                                                                 <h6 className="product-name">
-                                                                    <a href="single-product.html">
+                                                                    <a href="/single-product-sale">
                                                                         Aliquet
                                                                         auctor
                                                                         semali
@@ -1167,7 +1167,7 @@ export default function SingleProduct() {
                                                 <div className="slide-item">
                                                     <div className="single-product">
                                                         <div className="product-img">
-                                                            <a href="single-product.html">
+                                                            <a href="/single-product-sale">
                                                                 <img
                                                                     className="primary-img"
                                                                     src="assets/images/product/medium-size/2-3.jpg"
@@ -1234,7 +1234,7 @@ export default function SingleProduct() {
                                                                     </span>
                                                                 </div>
                                                                 <h6 className="product-name">
-                                                                    <a href="single-product.html">
+                                                                    <a href="/single-product-sale">
                                                                         Auctor
                                                                         gravida
                                                                         enimuctor
@@ -1269,7 +1269,7 @@ export default function SingleProduct() {
                                                 <div className="slide-item">
                                                     <div className="single-product">
                                                         <div className="product-img">
-                                                            <a href="single-product.html">
+                                                            <a href="/single-product-sale">
                                                                 <img
                                                                     className="primary-img"
                                                                     src="assets/images/product/medium-size/3-3.jpg"
@@ -1336,7 +1336,7 @@ export default function SingleProduct() {
                                                                     </span>
                                                                 </div>
                                                                 <h6 className="product-name">
-                                                                    <a href="single-product.html">
+                                                                    <a href="/single-product-sale">
                                                                         Bibenm
                                                                         lorem
                                                                         coectetur
@@ -1370,7 +1370,7 @@ export default function SingleProduct() {
                                                 <div className="slide-item">
                                                     <div className="single-product">
                                                         <div className="product-img">
-                                                            <a href="single-product.html">
+                                                            <a href="/single-product-sale">
                                                                 <img
                                                                     className="primary-img"
                                                                     src="assets/images/product/medium-size/4-3.jpg"
@@ -1437,7 +1437,7 @@ export default function SingleProduct() {
                                                                     </span>
                                                                 </div>
                                                                 <h6 className="product-name">
-                                                                    <a href="single-product.html">
+                                                                    <a href="/single-product-sale">
                                                                         Curabitur
                                                                         tristique
                                                                         neque
