@@ -1,4 +1,4 @@
-import React from "react";
+import "./ShopLeftSibar.css";
 
 export default function ShopLeftSibar() {
     return (

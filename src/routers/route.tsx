@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import Home from "../pages/Home/Home";
+// import Home from "../pages/Home/Home";
 import About from "../pages/About/About";
 import Index from "../pages/Index/Index";
 import Checkout from "../pages/Checkout/Checkout";
@@ -27,9 +27,7 @@ export default function RouterCom() {
                     path="/single-product-sale"
                     element={<SingleProductSale />}
                 />
-
                 <Route path="/single-product" element={<SingleProduct />} />
-                <Route path="/" element={<Home />} />
             </Routes>
         </>
     );

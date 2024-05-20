@@ -20,12 +20,16 @@ export default function Contact() {
                 <div className="google-map_area">
                     <div className="container-fluid">
                         <div id="google-map">
-                            {/* <iframe
+                            <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.838709675939!2d144.95320007668528!3d-37.817246734238516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4dd5a05d97%3A0x3e64f855a564844d!2s121%20King%20St%2C%20Melbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2sus!4v1670477011653!5m2!1sen!2sus"
-                                style="border:0;width:100%;height:100%;"
-                                allowfullscreen=""
+                                style={{
+                                    border: "0",
+                                    width: "100%",
+                                    height: "100%",
+                                }}
+                                // allowfullscreen=""
                                 loading="lazy"
-                            ></iframe> */}
+                            ></iframe>
                         </div>
                     </div>
                 </div>

@@ -14,7 +14,7 @@ function Carousel() {
                             src={"assets/images/banner/2-1.jpg"}
                             className="d-block w-100"
                             alt="..."
-                            style={{height: "500px"}}
+                            style={{ height: "500px" }}
                         />
                     </div>
                     <div className="carousel-item">
@@ -22,7 +22,7 @@ function Carousel() {
                             src={"assets/images/banner/2-2.jpg"}
                             className="d-block w-100"
                             alt="..."
-                            style={{height: "500px"}}
+                            style={{ height: "500px" }}
                         />
                     </div>
                     <div className="carousel-item">
@@ -30,7 +30,7 @@ function Carousel() {
                             src={"assets/images/slider/2-1.jpg"}
                             className="d-block w-100"
                             alt="..."
-                            style={{height: "500px"}}
+                            style={{ height: "500px" }}
                         />
                     </div>
                 </div>
