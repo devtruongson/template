@@ -911,7 +911,8 @@ export default function Header() {
 
                                             <li>
                                                 <a href="/checkout">
-                                                    Tin tức
+                                                    {/* Tin tức */}
+                                                    Thanh toán
                                                     <i className="ion-chevron-down"></i>
                                                 </a>
                                                 <ul className="hm-dropdown">
