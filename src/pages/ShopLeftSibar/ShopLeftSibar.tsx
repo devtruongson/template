@@ -467,7 +467,7 @@ export default function ShopLeftSibar() {
                                                 </div>
                                                 <div className="product-content">
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Aliquam furniture
                                                         </a>
                                                     </h6>
@@ -513,7 +513,7 @@ export default function ShopLeftSibar() {
                                                 </div>
                                                 <div className="product-content">
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Kaoreet lobortis
                                                         </a>
                                                     </h6>
@@ -556,7 +556,7 @@ export default function ShopLeftSibar() {
                                                 </div>
                                                 <div className="product-content">
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Vulputate justo
                                                         </a>
                                                     </h6>
@@ -599,7 +599,7 @@ export default function ShopLeftSibar() {
                                                 </div>
                                                 <div className="product-content">
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Dignissim venenatis
                                                         </a>
                                                     </h6>
@@ -642,7 +642,7 @@ export default function ShopLeftSibar() {
                                                 </div>
                                                 <div className="product-content">
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Aliquam lobortis
                                                         </a>
                                                     </h6>
@@ -685,7 +685,7 @@ export default function ShopLeftSibar() {
                                                 </div>
                                                 <div className="product-content">
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Tincidunt malesuada
                                                         </a>
                                                     </h6>
@@ -731,7 +731,7 @@ export default function ShopLeftSibar() {
                                                 </div>
                                                 <div className="product-content">
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Auctor gravida enim
                                                         </a>
                                                     </h6>
@@ -777,7 +777,7 @@ export default function ShopLeftSibar() {
                                                 </div>
                                                 <div className="product-content">
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Dignissim venenatis
                                                         </a>
                                                     </h6>
@@ -915,7 +915,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/1-2.jpg"
@@ -982,7 +982,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Aliquet auctor
                                                             semali
                                                         </a>
@@ -1013,7 +1013,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/1-2.jpg"
                                                         alt="Umino's Product Image"
@@ -1031,7 +1031,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Aliquet auctor
                                                             semali
                                                         </a>
@@ -1131,7 +1131,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/2-2.jpg"
@@ -1198,7 +1198,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Accumsan Mauris
                                                             Ullaat
                                                         </a>
@@ -1229,7 +1229,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/2-2.jpg"
                                                         alt="Umino's Product Image"
@@ -1250,7 +1250,7 @@ export default function ShopLeftSibar() {
                                                         $70.00
                                                     </span>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Accumsan Mauris
                                                             Ullaat
                                                         </a>
@@ -1350,7 +1350,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/3-2.jpg"
@@ -1417,7 +1417,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Aliquam Sedjusto
                                                             Atluct
                                                         </a>
@@ -1448,7 +1448,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/3-2.jpg"
                                                         alt="Umino's Product Image"
@@ -1466,7 +1466,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Aliquam Sedjusto
                                                             Atluct
                                                         </a>
@@ -1566,7 +1566,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/4-2.jpg"
@@ -1633,7 +1633,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Auctor Gravida
                                                             Enimuctor
                                                         </a>
@@ -1664,7 +1664,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/4-2.jpg"
                                                         alt="Umino's Product Image"
@@ -1682,7 +1682,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Auctor Gravida
                                                             Enimuctor
                                                         </a>
@@ -1782,7 +1782,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/5-2.jpg"
@@ -1849,7 +1849,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Bibenm Lorem
                                                             Coectetur
                                                         </a>
@@ -1880,7 +1880,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/5-2.jpg"
                                                         alt="Umino's Product Image"
@@ -1898,7 +1898,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Bibenm Lorem
                                                             Coectetur
                                                         </a>
@@ -1998,7 +1998,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/6-2.jpg"
@@ -2065,7 +2065,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Condim Entumpos
                                                             Uereondi
                                                         </a>
@@ -2096,7 +2096,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/6-2.jpg"
                                                         alt="Umino's Product Image"
@@ -2114,7 +2114,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Condim Entumpos
                                                             Uereondi
                                                         </a>
@@ -2214,7 +2214,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/7-2.jpg"
@@ -2281,7 +2281,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Condime Eondim
                                                             Furnitur
                                                         </a>
@@ -2312,7 +2312,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/7-2.jpg"
                                                         alt="Umino's Product Image"
@@ -2330,7 +2330,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Condime Eondim
                                                             Furnitur
                                                         </a>
@@ -2430,7 +2430,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/8-2.jpg"
@@ -2497,7 +2497,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Convallis Quam Siton
                                                         </a>
                                                     </h6>
@@ -2527,7 +2527,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/1-2.jpg"
                                                         alt="Umino's Product Image"
@@ -2545,7 +2545,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Convallis Quam Siton
                                                         </a>
                                                     </h6>
@@ -2644,7 +2644,7 @@ export default function ShopLeftSibar() {
                                     <div className="slide-item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         className="primary-img"
                                                         src="assets/images/product/medium-size/7-1.jpg"
@@ -2711,7 +2711,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Aliquam Sedjusto
                                                             Atluct
                                                         </a>
@@ -2742,7 +2742,7 @@ export default function ShopLeftSibar() {
                                     <div className="list-slide_item">
                                         <div className="single-product">
                                             <div className="product-img">
-                                                <a href="single-product.html">
+                                                <a href="/single-product">
                                                     <img
                                                         src="assets/images/product/medium-size/7-1.jpg"
                                                         alt="Umino's Product Image"
@@ -2760,7 +2760,7 @@ export default function ShopLeftSibar() {
                                                         </span>
                                                     </div>
                                                     <h6 className="product-name">
-                                                        <a href="single-product.html">
+                                                        <a href="/single-product">
                                                             Aliquam Sedjusto
                                                             Atluct
                                                         </a>
